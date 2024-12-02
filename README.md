@@ -1,2 +1,2 @@
 # SQL Windows Form Demo
-### A basic demostartion of connecting VS to Sql server and executing queries.
+### A basic demonstration of connecting VS to an Sql server and executing queries.
